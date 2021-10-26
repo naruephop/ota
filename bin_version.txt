@@ -1,1 +1,1 @@
-fw1.bin
+fw.bin
